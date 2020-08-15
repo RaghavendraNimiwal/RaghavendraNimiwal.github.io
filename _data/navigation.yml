@@ -1,8 +1,6 @@
 # main links links
 main:
-  - title: "About Me"
-    url: /about_me/
-    
+
   - title: "CV"
     url: /files/RNimiwal_CV.pdf
     
@@ -10,4 +8,7 @@ main:
     url: /projects/
     
   - title: "Publications"
-    url: /publications/  
+    url: /publications/ 
+    
+  - title: "Blog Posts"
+    url: /year-archive/
