@@ -4,7 +4,7 @@ main:
     url: /about_me/
     
   - title: "CV"
-    url: /cv/
+    url: /files/RNimiwal_CV.pdf
     
   - title: "Projects"
     url: /projects/
