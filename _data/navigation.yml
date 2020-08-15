@@ -1,8 +1,5 @@
 # main links links
 main:
-
-  - title: "CV"
-    url: /files/RNimiwal_CV.pdf
     
   - title: "Projects"
     url: /projects/
@@ -10,8 +7,11 @@ main:
   - title: "Publications"
     url: /publications/ 
     
+  - title: "Knowledge Base"
+    url: /knowledge-base/
+    
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Knowledge Base"
-    url: /knowledge-base/
+  - title: "CV"
+    url: /files/RNimiwal_CV.pdf
