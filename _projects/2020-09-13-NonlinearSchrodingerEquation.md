@@ -1,0 +1,21 @@
+---
+title: "NLS Soliton"
+collection: projects
+permalink: /projects/2020-09-13-NonlinearSchrodingerEquation
+---
+
+# NLS Soliton
+===
+NLS Soliton
+===
+
+Chiral reduction of PDE
+hydrodynamics
+
+<img src="{{sute.url}}{{site.baseurl}}/images/IntraChiral3D.jpg">
+
+<img src="{{sute.url}}{{site.baseurl}}/images/IntraChiral3DGIF.gif">
+
+<img src="{{sute.url}}{{site.baseurl}}/images/IntraChiral3D.mp4">
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

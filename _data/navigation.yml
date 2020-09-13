@@ -2,16 +2,13 @@
 main:
     
   - title: "Projects"
-    url: /talks/
+    url: /projects/
     
   - title: "Publications"
     url: /publications/ 
     
   - title: "Knowledge Base"
     url: /knowledge-base/
-    
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /files/RNimiwal_CV.pdf
