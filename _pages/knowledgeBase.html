@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Knowledge base"
+permalink: /knowledge-base/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.knowledge-base reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}

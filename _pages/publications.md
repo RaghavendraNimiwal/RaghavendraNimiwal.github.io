@@ -8,8 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-
-# Academic publications
+### Journal Publications
 
 PK Prajapati, NN Reddy, **R Nimiwal**, PS Singh, S Adimurthy, RK Nagarale
 Polyaniline@ porous polypropylene for efficient separation of acid by diffusion dialysis
