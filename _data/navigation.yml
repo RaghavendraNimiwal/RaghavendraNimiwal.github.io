@@ -8,7 +8,7 @@ main:
     url: /publications/ 
     
   - title: "Knowledge Base"
-    url: /knowledge-base/
+    url: /knowledgeBase/
     
   - title: "CV"
     url: /files/RNimiwal_CV.pdf
