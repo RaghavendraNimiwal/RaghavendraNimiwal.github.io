@@ -12,7 +12,7 @@ author_profile: true
 
 PK Prajapati, NN Reddy, **R Nimiwal**, PS Singh, S Adimurthy, RK Nagarale
 Polyaniline@ porous polypropylene for efficient separation of acid by diffusion dialysis
-_Separation and Purification Technology_ (2020) doi:[10.1016/j.seppur.2019.115989](https://github.com/RaghavendraNimiwal/RaghavendraNimiwal.github.io/blob/master/files/paper2.pdf)
+_Separation and Purification Technology_ (2020) doi:[10.1016/j.seppur.2019.115989](https://raghavendranimiwal.github.io/files/paper2.pdf)
 
 PK Prajapati, **R Nimiwal**, PS Singh, RK Nagarale
 Polyaniline-co-epichlorohydrin nanoporous anion exchange membranes for diffusion dialysis
