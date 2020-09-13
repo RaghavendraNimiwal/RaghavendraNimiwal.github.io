@@ -1,3 +1,49 @@
+# Notes for me
+
+General info on markdown is given in _pages/markdown.md
+
+Change content of main landing page in _pages/about.md.
+
+Change sidebar content in _config.yml
+
+Change how sidebar shows up in _includes/author-profile.html
+
+Informantion on tabs is given in _data/navigation.yml
+
+If you want to add more tabs add the field in _data/navigation and in _config.yml (collections and defaults)
+
+Check examples from projects and knowledge base to setup front matter and the code for pages (written inside {%   %})
+
+To run the site locally, run bundle exec jekyll serve
+
+To change formats of things, try to find the respective .scss file in the _sass folder.
+
+Looks like the archive-single.html file in _includes is used in a lot of the html files. For example, in year-archive.html, the line {% include archive-single.html %} basically does all of the heavy lifting and defines how things will look. I changed the archive-single.html file to change how my blog posts were being shown.
+
+To change main navigation content, edit navigation.yml in _data.
+
+Notes on blog posts
+Individual blog posts are in the _posts folder. The files need to be formatted as yyyy-mm-dd for them to be parsed by the code in _pages/year-archive.md and added to the main blog page.
+
+The header info for each blog post needs the following:
+
+title: title of the blog post. No need for single quotes unless there's a special character (especially a colon) in the title.
+permalink: link to the post. Note that if you also have something called link, then the title will link to whatever you put in link and the Read more will link to the permalink. Best to only have one link though...
+The main blog page will show the first paragraph of text, and then include a Read more... link. Most of the blog post behavior is defined in {% include archive-single.html %} (archive-single.html is in the _includes folder).
+
+Notes on notebooks
+Write the jupyter notebook in the _jupyter folder
+When it's finished, jupyter nbconvert <nb> --to markdown
+Move it to the _posts folder
+Move the images to the images folder
+Add /images/ to all image paths in the markdown file
+You can also run the convert_and_move.sh function in the _jupyter folder. Note that you still have to go in and manually add the /images/ path, and if there are any non-extension dots in the file name these should be changed to hyphens. You also need to go and add the header to the post.
+
+Still to figure out: how to change font size/format of cells, how to have [In 1] show up, how to add image captions.
+
+
+
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
