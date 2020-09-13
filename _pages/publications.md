@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -9,8 +8,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Academic publications
+
+PK Prajapati, NN Reddy, **R Nimiwal**, PS Singh, S Adimurthy, RK Nagarale
+Polyaniline@ porous polypropylene for efficient separation of acid by diffusion dialysis
+_Separation and Purification Technology_ (2020) doi:[10.1016/j.seppur.2019.115989](https://github.com/RaghavendraNimiwal/RaghavendraNimiwal.github.io/blob/master/files/paper2.pdf)
+
+PK Prajapati, **R Nimiwal**, PS Singh, RK Nagarale
+Polyaniline-co-epichlorohydrin nanoporous anion exchange membranes for diffusion dialysis
+_Polymer_ (2019) doi:[10.1016/j.polymer.2019.03.016](https://github.com/RaghavendraNimiwal/RaghavendraNimiwal.github.io/blob/master/files/paper1.pdf)
