@@ -28,9 +28,11 @@ Let the solution in the fourier space be $\hat{u}(k,t)$, where $k$ represents th
 \end{align}
 
 Therefore the solution in our real space for the $k^{th}$ mode will be
-\begib{align}
+
+\begin{align}
   u(x,t) = \hat{u}(k,0)e^{ikx}e^{-\alpha k^2 t} \tag{2}
 \end{align}
+
 Eq. 2 shows that the amplitude of each of $k^{th}$ mode decreases exponential with the rate $\alpha k^2$. This means the high frequency modes damp out faster that the low frequency modes.
 
 ## Discretisation
