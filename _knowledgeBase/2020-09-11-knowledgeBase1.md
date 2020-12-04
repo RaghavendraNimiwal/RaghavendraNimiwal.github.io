@@ -1,5 +1,5 @@
 ---
-title: "Diffusion Equation part 2"
+title: "Diffusion Equation"
 collection: knowledgeBase
 permalink: /knowledgeBase/2020-09-11-knowledgeBase1
 date: 2020-09-11
