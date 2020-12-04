@@ -242,5 +242,3 @@ Hence backward euler scheme is unconditionally stable.
 ```
 
 ```
-
-$\alpha$
