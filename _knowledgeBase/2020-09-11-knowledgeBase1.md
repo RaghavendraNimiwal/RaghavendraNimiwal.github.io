@@ -21,17 +21,15 @@ Since Eq. 1 is a linear partial differential equation we can consider the soluti
 
 Let the solution in the fourier space be $\hat{u}(k,t)$, where $k$ represents the $k^{th}$ mode of the solution in the fourier space. Therefore for any mode $k$, the solution in the real space will be $\hat{u}e^{ikx}$ and it should satisfy Eq. 1. (Integration over k will give the complete solution)
 
-\begin{align}
+$$\begin{aligned}
   \frac{d \hat{u}}{d t}e^{ikx} &= \alpha (ik)^2 e^{ikx}\hat{u} \\
   \frac{d \hat{u}}{d t} &= -\alpha k^2 \hat{u} \\
   \hat{u}(k,t) &= \hat{u}(k,0)e^{-\alpha k^2 t} \\
-\end{align}
+\end{aligned}$$
 
 Therefore the solution in our real space for the $k^{th}$ mode will be
 
-\begin{align}
-  u(x,t) = \hat{u}(k,0)e^{ikx}e^{-\alpha k^2 t} \tag{2}
-\end{align}
+$$u(x,t) = \hat{u}(k,0)e^{ikx}e^{-\alpha k^2 t} \tag{2}$$
 
 Eq. 2 shows that the amplitude of each of $k^{th}$ mode decreases exponential with the rate $\alpha k^2$. This means the high frequency modes damp out faster that the low frequency modes.
 
