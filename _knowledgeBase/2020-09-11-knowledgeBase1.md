@@ -24,7 +24,7 @@ Let the solution in the fourier space be $\hat{u}(k,t)$, where $k$ represents th
 \begin{align}
   \frac{d \hat{u}}{d t}e^{ikx} &= \alpha (ik)^2 e^{ikx}\hat{u} \\
   \frac{d \hat{u}}{d t} &= -\alpha k^2 \hat{u} \\
-  \hat{u}(k,t) &= \hat{u}(k,0)e^{-\alpha k^2 t} 
+  \hat{u}(k,t) &= \hat{u}(k,0)e^{-\alpha k^2 t} \\
 \end{align}
 
 Therefore the solution in our real space for the $k^{th}$ mode will be
