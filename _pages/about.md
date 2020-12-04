@@ -14,10 +14,10 @@ I am currently a research assitant at [ICTS-TIFR](https://www.icts.res.in) in th
 On this site, you can find details about my projects, take a look at various jupyter notebooks I've made to explain different concepts, browse through my publications or view my curriculum vitae. Also, please feel free to get in touch!
 
 ### Areas of Expertise
-- Numerical Methods- Finite Element Methods, Finite Volume Methods, Finite Difference Methods
+- Numerical Methods- Finite Volume Methods, Finite Element Methods
 - Computational Fluid Dynamics
-- Dynamical Systems
-- Perturbation Methods
 - Fluid Mechanics
+- Perturbation Methods
+- Dynamical Systems
 
 I wish to use my skillset to probe various biological phenomenon, learn from them and create solutions for the various problems that we face today.
