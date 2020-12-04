@@ -13,7 +13,7 @@ I am currently a research assistant at [ICTS-TIFR](https://www.icts.res.in) in t
 
 On this site, you can find details about my projects, take a look at various jupyter notebooks I've made to explain different concepts, browse through my publications or view my curriculum vitae. Also, please feel free to get in touch!
 
-### Areas of Expertise
+### Experienced in
 - Numerical Methods- Finite Volume Methods, Finite Element Methods
 - Computational Fluid Dynamics
 - Fluid Mechanics
