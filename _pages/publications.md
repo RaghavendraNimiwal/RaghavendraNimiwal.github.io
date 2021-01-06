@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-### Journal Publications
+## Journal Publications
 
 **R. Nimiwal**, U. Satpathi, V. Vasan, M. Kulkarni,
 "Soliton-like behaviour in non-integrable systems",
