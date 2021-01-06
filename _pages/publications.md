@@ -17,3 +17,7 @@ _Separation and Purification Technology_ (2020) doi:[10.1016/j.seppur.2019.11598
 PK Prajapati, **R Nimiwal**, PS Singh, RK Nagarale
 Polyaniline-co-epichlorohydrin nanoporous anion exchange membranes for diffusion dialysis
 _Polymer_ (2019) doi:[10.1016/j.polymer.2019.03.016](https://raghavendranimiwal.github.io/files/paper1.pdf)
+
+**R Nimiwal**, U Satpathi, V Vasan, M Kulkarni
+Soliton-like behaviour in non-integrable systems
+[https://arxiv.org/abs/2101.01651](https://raghavendranimiwal.github.io/files/Paper3.pdf)
