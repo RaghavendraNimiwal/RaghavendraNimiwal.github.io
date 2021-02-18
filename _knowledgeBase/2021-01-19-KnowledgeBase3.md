@@ -1,5 +1,5 @@
 ---
-title: "Mechanochemical Pattern Formation test2"
+title: "Mechanochemical Pattern Formation"
 collection: knowledgeBase
 permalink: /knowledgeBase/2021-01-19-knowledgeBase3
 date: 2021-01-19
