@@ -204,7 +204,6 @@ plt.legend(loc="upper left")
 plt.grid(True)
 plt.show()
 ```
-
-![png](ipynbImages/MechanoChemicalPatternFormation_files/MechanoChemicalPatternFormation_6_0.png)
-![gif](ipynbImages/MechanoChemicalPatternFormation_files/animation.gif)
+![png](/ipynbImages/MechanoChemicalPatternFormation_files/MechanoChemicalPatternFormation_6_0.png)
+![gif](/ipynbImages/MechanoChemicalPatternFormation_files/animation.gif)
 
