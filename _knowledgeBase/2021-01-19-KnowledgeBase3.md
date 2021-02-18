@@ -18,7 +18,9 @@ The myosin motors consume ATP and generate contractile forces in the cortex. Thu
 Since there is a constant influx of energy, as myosin motors consume ATP to generate contractile forces, we call this system active. 
 
 Consider an active stress regulator chemical whose concentration is given by $c$
+
 $$\frac{\partial c}{\partial t} = \frac{\partial ^2 c}{\partial x^2} -Pe \frac{\partial vc}{\partial x}$$
+
 The chemical species is advected by the flow field generated due to the active stress and the chemical species itself is responsible for generating the active stress. Thus there is a coupling between the chemical species and the underlying mechanics of the cortex.
 
 The force balance equation for the active fluid (neglecting the inertial forces and assuming that the flow field relaxes instantly)
