@@ -197,5 +197,6 @@ plt.show()
 ```
 
 
-![svg](MechanoChemicalPatternFormation_files/MechanoChemicalPatternFormation_6_0.png)
+![png](/ipynbImages/MechanoChemicalPatternFormation_files/MechanoChemicalPatternFormation_6_0.png)
+![gif](/ipynbImages/MechanoChemicalPatternFormation_files/animation.gif)
 
