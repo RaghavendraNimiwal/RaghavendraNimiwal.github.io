@@ -7,13 +7,13 @@ date: 2020-11-12
 
 The actomyosin cortex of a cell is composed of actin filaments and myosin motor proteins. 
 
-## Actin Filaments
+Actin Filaments
 The actin filaments exits in two forms- as polymeric form beneath the cell membrane and as monomeric form in the cytosol. The filament polymerises and depolymerises releasing any elastic stress in the cortex. Thus we can write a hydrodynamic description of the cortex at time scales larger than this turn over time scale. 
 
-## Myosin Motors
+Myosin Motors
 The myosin motors consume ATP and generate contractile forces in the cortex. Thus a gradient in the concentration of these myosin motors lead to a gradient in the contractile tension in the cortex. This gradient results in a flow field.
 
-## Active hydrodynamic theory of actomyosin cortex
+Active hydrodynamic theory of actomyosin cortex
 Since there is a constant influx of energy, as myosin motors consume ATP to generate contractile forces, we call this system active. 
 
 Consider an active stress regulator chemical whose concentration is given by $c$
