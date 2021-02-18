@@ -1,4 +1,11 @@
-# Actomyosin Cortex
+---
+title: "Mechanochemical Pattern Formation test2"
+collection: knowledgeBase
+permalink: /knowledgeBase/2021-01-19-knowledgeBase3
+date: 2021-01-19
+---
+
+## Actomyosin Cortex
 The actomyosin cortex of a cell is composed of actin filaments and myosin motor proteins. 
 
 ## Actin Filaments
