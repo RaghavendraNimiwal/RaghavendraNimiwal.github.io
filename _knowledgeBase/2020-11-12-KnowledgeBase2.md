@@ -7,6 +7,12 @@ date: 2020-11-12
 
 The actomyosin cortex of a cell is composed of actin filaments and myosin motor proteins. 
 
+
+$$c = c_0 + \delta c = c_0 + \delta c_0 e^{ikx}$$
+
+
+
+
 ## Actin Filaments
 The actin filaments exits in two forms- as polymeric form beneath the cell membrane and as monomeric form in the cytosol. The filament polymerises and depolymerises releasing any elastic stress in the cortex. Thus we can write a hydrodynamic description of the cortex at time scales larger than this turn over time scale. 
 
