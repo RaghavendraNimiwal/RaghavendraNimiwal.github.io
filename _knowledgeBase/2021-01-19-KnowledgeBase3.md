@@ -21,25 +21,25 @@ Consider an active stress regulator chemical whose concentration is given by $c$
 $$\frac{\partial c}{\partial t} = \frac{\partial ^2 c}{\partial x^2} -Pe \frac{\partial vc}{\partial x}$$
 The chemical species is advected by the flow field generated due to the active stress and the chemical species itself is responsible for generating the active stress. Thus there is a coupling between the chemical species and the underlying mechanics of the cortex.
 
-The force balance equation for the active fluid (neglecting the inertial forces and assuming that the flow field relaxes instantly)
-$$\partial_x\sigma - \gamma v = 0$$
+The force balance equation for the active fluid (neglecting the inertial forces and assuming that the flow field relaxes instantly)\
+$$\partial_x\sigma - \gamma v = 0$$\
 where $\gamma$ is the friction coefficient from the surrounding medium and $\sigma = \sigma_{viscous} + \sigma_{active}$ and the active stress is some function of $c$
 
-The nondimensionalized form becomes 
-$$\frac{\partial^2 v}{\partial x^2} + \frac{\partial }{\partial x} f(c) = v$$
+The nondimensionalized form becomes \
+$$\frac{\partial^2 v}{\partial x^2} + \frac{\partial }{\partial x} f(c) = v$$\
 where $f(c) = \big(\frac{c}{1+c}\big)$
 
 Perturbing the system about the steady state $(c_0,0)$
 
-$$c = c_0 + \delta c = c_0 + \delta c_0 e^{ikx}$$
-The perturbation in $c$ generates a flow field given by
+$$c = c_0 + \delta c = c_0 + \delta c_0 e^{ikx}$$\
+The perturbation in $c$ generates a flow field given by\
 $$v = \frac{\delta c (ik) \partial_c f}{1+k^2}$$
 
-Putting the flow field back into the $c$ evolution equation to check the stability of $k^{th}$ mode (linear order).
+Putting the flow field back into the $c$ evolution equation to check the stability of $k^{th}$ mode (linear order).\
 
-$$\frac{\partial \delta c_0}{\partial t} = -k^2 \delta c_0 \bigg(1-\frac{Pe c_0 \partial_cf}{1+k^2}\bigg)$$
+$$\frac{\partial \delta c_0}{\partial t} = -k^2 \delta c_0 \bigg(1-\frac{Pe c_0 \partial_cf}{1+k^2}\bigg)$$\
 
-Hence we get the condition for instability
+Hence we get the condition for instability\
 $$\frac{Pe c_0 \partial_cf}{1+k^2} > 1$$
 
 
